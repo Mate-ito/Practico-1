@@ -1,0 +1,24 @@
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\bin\Debug\PRactico1.exe.config
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\bin\Debug\PRactico1.exe
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\bin\Debug\PRactico1.pdb
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\obj\Debug\PRactico1.exe
+C:\Users\Mateo\source\repos\PRactico1\PRactico1\obj\Debug\PRactico1.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\bin\Debug\PRactico1.exe.config
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\bin\Debug\PRactico1.exe
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\bin\Debug\PRactico1.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\obj\Debug\PRactico1.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\obj\Debug\PRactico1.exe
+C:\Users\Mateo\Desktop\Projectos Visual\PRactico1\PRactico1\obj\Debug\PRactico1.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\bin\Debug\PRactico1.exe.config
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\bin\Debug\PRactico1.exe
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\bin\Debug\PRactico1.pdb
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\obj\Debug\PRactico1.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\obj\Debug\PRactico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\obj\Debug\PRactico1.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\obj\Debug\PRactico1.exe
+C:\Users\Mateo\Desktop\Projectos Visual\Practico1 Mariana y Mateo\PRactico1\obj\Debug\PRactico1.pdb
